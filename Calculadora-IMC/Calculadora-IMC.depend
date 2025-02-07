@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738770613 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\programacion1-tareas\calculadora-imc\main.cpp
+	<iostream>
+	<cstdlib>
+
