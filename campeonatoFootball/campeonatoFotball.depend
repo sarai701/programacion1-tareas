@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1739950827 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\programacion1-tareas\campeonatofotball\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<algorithm>
+
