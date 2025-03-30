@@ -1,4 +1,4 @@
-//Priscila Guzmán
+
 //Este programa realizara el control del campeonato de futbol de ida y vuelta
 #include <iostream>
 #include <iomanip>

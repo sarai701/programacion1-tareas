@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1743226176 source:c:\users\prisc\onedrive\documentos\clasestorneofutbol\main.cpp
+	<iostream>
+	<Torneo.h>
+
+1743307233 source:c:\users\prisc\onedrive\documentos\clasestorneofutbol\src\torneo.cpp
+	"Torneo.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1743144988 c:\users\prisc\onedrive\documentos\clasestorneofutbol\include\torneo.h
+	"Equipo.h"
+
+1743230705 c:\users\prisc\onedrive\documentos\clasestorneofutbol\include\equipo.h
+	<iostream>
+	<string>
+
+1743230871 source:c:\users\prisc\onedrive\documentos\clasestorneofutbol\src\equipo.cpp
+	"Equipo.h"
+	<iostream>
+	<string>
+
